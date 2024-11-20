@@ -21,6 +21,22 @@
 
 ---
 
+## Instalación VSCode (Windows VS Linux)
+
+- **Windows**
+  
+- **Linux**
+  
+
+## Instalación PyCharm (Windows VS Linux)
+
+- **Windows**
+  
+- **Linux**
+  
+
+---
+
 ## Respuestas a Preguntas Evaluativas
 
 1. **Características comunes en edición de código, depuración y control de versiones**  
