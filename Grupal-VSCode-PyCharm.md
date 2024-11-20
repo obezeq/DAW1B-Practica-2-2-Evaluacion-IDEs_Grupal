@@ -23,7 +23,7 @@
 
 ## Instalación VSCode (Windows VS Linux)
 
-- **Windows**
+### Windows
   
   ![](https://raw.githubusercontent.com/acasmor0802/DAW1_2_2_ACM/refs/heads/main/public/1_1.png.png)
   ![](https://raw.githubusercontent.com/acasmor0802/DAW1_2_2_ACM/refs/heads/main/public/1_2.png)
@@ -31,15 +31,19 @@
   ![](https://raw.githubusercontent.com/acasmor0802/DAW1_2_2_ACM/refs/heads/main/public/1_4.png)
   ![](https://raw.githubusercontent.com/acasmor0802/DAW1_2_2_ACM/refs/heads/main/public/1_5.png)
 
-- **Linux**
+---
+
+### Linux
   
   ![](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/Ubuntu-Software-APPS-Installed.png)
   ![](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Installation-0.png)
   ![](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Installation-1.png)
-  
+
+---
+
 ## Instalación PyCharm (Windows VS Linux)
 
-- **Windows**
+### Windows
   
   ![](https://raw.githubusercontent.com/acasmor0802/DAW1_2_2_ACM/refs/heads/main/public/1_6.png)
   ![](https://raw.githubusercontent.com/acasmor0802/DAW1_2_2_ACM/refs/heads/main/public/1_7.png)
@@ -50,7 +54,9 @@
   ![](https://raw.githubusercontent.com/acasmor0802/DAW1_2_2_ACM/refs/heads/main/public/1_12.png)
   ![](https://raw.githubusercontent.com/acasmor0802/DAW1_2_2_ACM/refs/heads/main/public/1_13.png)
 
-- **Linux**
+---
+
+### Linux
   
   ![](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/Ubuntu-Software-APPS-Installed.png)
   ![](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_Grupal/refs/heads/main/Ezequiel/public/PyCharm/Installation-0.png)
