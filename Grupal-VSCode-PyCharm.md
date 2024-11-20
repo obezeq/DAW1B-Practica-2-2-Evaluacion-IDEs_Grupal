@@ -1,4 +1,4 @@
-  # Análisis Comparativo de IDEs: PyCharm vs. Visual Studio Code
+# Análisis Comparativo de IDEs: PyCharm vs. Visual Studio Code
 
 | **Característica**                   | **PyCharm**                                   | **Visual Studio Code**                        |
 |--------------------------------------|-----------------------------------------------|-----------------------------------------------|
