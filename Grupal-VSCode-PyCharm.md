@@ -230,6 +230,25 @@ Ambos IDEs son multiplataforma y funcionan en Windows, macOS y Linux, pero hay d
 
 ---
 
+# **Datos Curiosos**
+
+## 🌟 ¿Sabías que el concepto de IDE nació gracias a un videojuego?  
+En los años 80, el entorno de Smalltalk se diseñó inspirado por **"The Dynabook"**, una computadora portátil para enseñar programación, creada por Alan Kay. Este prototipo tenía un entorno gráfico que integraba edición, depuración y ejecución, todo inspirado en videojuegos educativos.  
+
+---
+
+## 🚀 El 'temor' inicial al autocompletado  
+Al principio, muchos programadores rechazaron el autocompletado, temiendo que los hiciera "perezosos". Sin embargo, hoy se sabe que mejora la productividad en más del **50%** y acelera el aprendizaje de sintaxis.  
+
+---
+
+## 🎨 Los colores del IDE afectan tu cerebro  
+- **Tema oscuro**: Reduce la fatiga ocular y mejora la retención de información.  
+- **Tema claro**: Más efectivo para resolver problemas lógicos.  
+Por eso, los temas oscuros suelen usar tonos de verde o azul, asociados con calma y atención sostenida.
+
+---
+
 ## 📊 **Conclusión Final**
 
 - **PyCharm**:  
