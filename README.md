@@ -235,6 +235,8 @@ Ambos IDEs son multiplataforma y funcionan en Windows, macOS y Linux, pero hay d
 ## 🌟 ¿Sabías que el concepto de IDE nació gracias a un videojuego?  
 En los años 80, el entorno de Smalltalk se diseñó inspirado por **"The Dynabook"**, una computadora portátil para enseñar programación, creada por Alan Kay. Este prototipo tenía un entorno gráfico que integraba edición, depuración y ejecución, todo inspirado en videojuegos educativos.  
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alan_Kay_and_the_prototype_of_Dynabook%2C_pt._5_(3010032738).jpg/440px-Alan_Kay_and_the_prototype_of_Dynabook%2C_pt._5_(3010032738).jpg)
+
 ---
 
 ## 🚀 El 'temor' inicial al autocompletado  
