@@ -1,6 +1,4 @@
-# Punto 3: Comparativa de IDEs
-
-En esta sección, presentamos una comparativa detallada entre dos IDEs ampliamente utilizados en el desarrollo de software: **Eclipse** y **IntelliJ IDEA Ultimate**. La comparación se basa en aspectos relevantes como soporte de lenguajes, velocidad, extensibilidad, personalización y herramientas incluidas.
+# Análisis Comparativo de IDEs: Eclipse VS IntelliJ IDEA
 
 ## Tabla Comparativa: Eclipse vs IntelliJ IDEA Ultimate
 
